@@ -3,7 +3,7 @@
 int main(){
 
   // Question 1
- /*float i=1.1;
+ float i=1.1;
 
  
   while(i==1.1){
@@ -37,7 +37,7 @@ else
 ouput (x,y),(3,1),(2,2)continue,(1,3),(0,4),(-1,5)
 
 }
-*/
+
 // Question 4
 
 int x=4,y=0,z;
@@ -50,7 +50,7 @@ printf("\n %d %d",x,y);
 x--;
 y++;
 
-// output 
+// output (x,y) (4,0) (3,1) 
 
 }
 
